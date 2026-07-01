@@ -40,6 +40,19 @@ Streamlit Basics
 Successfully understood the basic concepts of Streamlit and its applications.
 
 
+# Day 12
 
+## Topic
+API & JSON API Basics
+
+## What I Learned
+- Learned the basic concept of API.
+- Understood how APIs enable communication between applications.
+- Explored the role of APIs in Frontend, Backend, and Mobile Applications.
+- Learned the basics of JSON API and data exchange.
+- Studied simple API examples and their working process.
+
+## Outcome
+Successfully understood the fundamentals of APIs and JSON APIs and their real-world applications.
 No internship activities were scheduled today.
   
