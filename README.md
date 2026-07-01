@@ -54,5 +54,21 @@ API & JSON API Basics
 
 ## Outcome
 Successfully understood the fundamentals of APIs and JSON APIs and their real-world applications.
+
+# Day 13
+
+## Topic
+Free API & Custom API
+
+## What I Learned
+- Learned how to find and use free APIs.
+- Explored Fake JSON API for testing applications.
+- Understood the purpose of Testing APIs.
+- Learned about Partner APIs using a Weather API example.
+- Studied the basics of Custom APIs.
+- Understood the role of Database, Backend, API Logic, and Live Server in API development.
+
+## Outcome
+Successfully gained a basic understanding of different types of APIs and how they are used in real-world applications.
 No internship activities were scheduled today.
   
