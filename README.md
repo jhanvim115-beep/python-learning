@@ -24,5 +24,22 @@ No internship activities were scheduled today.
 ## Status
 Weekend Holiday (Sunday)
 
+# Day 10
+
+## Topic
+Streamlit Basics
+
+## What I Learned
+- Learned the basics of Streamlit.
+- Understood what Streamlit is and why it is used.
+- Learned how Streamlit helps in building web applications using Python.
+- Explored the basic features and working of Streamlit.
+- Gained an overview of the Streamlit framework.
+
+## Outcome
+Successfully understood the basic concepts of Streamlit and its applications.
+
+
+
 No internship activities were scheduled today.
   
