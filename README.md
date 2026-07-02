@@ -72,3 +72,32 @@ Free API & Custom API
 Successfully gained a basic understanding of different types of APIs and how they are used in real-world applications.
 No internship activities were scheduled today.
   
+# Day 14
+
+## Topic
+GitHub Repository Management
+
+## What I Learned
+- Organized internship programs day-wise.
+- Uploaded Python programs to GitHub.
+- Managed folders and files in the repository.
+- Learned proper commit messages.
+- Improved repository organization.
+
+## Outcome
+Successfully organized and uploaded internship programs to GitHub in a structured manner.
+
+# Day 15
+
+## Topic
+GitHub Project Completion
+
+## What I Learned
+- Uploaded all remaining internship programs.
+- Updated the repository with README files.
+- Organized the project for better readability.
+- Reviewed all uploaded programs.
+- Completed the internship GitHub repository.
+
+## Outcome
+Successfully completed and documented the 15-day Python internship project on GitHub.
